@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Debug script for NeMo Guardrails with Ollama and Llama3
-This script tests step by step to identify issues
+This script tests step by step to identify issues and creates the file structure
 """
 
 import os
