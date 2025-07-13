@@ -1,4 +1,6 @@
 # OllamaNemoGuardRails
+<img width="1406" height="811" alt="image" src="https://github.com/user-attachments/assets/28707e3e-d2d2-4d6b-8d3d-5734a1253f98" />
+
 ## Sample code for Nemo Guardrails with Local Ollama
 Original OpenAI-based tutorial is here:
 https://docs.nvidia.com/nemo/guardrails/latest/getting-started/4-input-rails/README.html
