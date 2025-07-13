@@ -14,7 +14,7 @@ This will allow you ask the model what you want.
 `python Sample.py`
 This will run two prompts - one jailbreak attempt and good one.
 
-The requirements.txt contain only the pip packages (nemoguardrails, colorama)
+The requirements.txt contain only the pip packages (nemoguardrails, langchain-ollama, colorama). No models.
 
-To fuction properly you should install ollama (https://ollama.com/download) with llama3 model (https://ollama.com/library/llama3.1:8b)
+To fuction properly you should install ollama (https://ollama.com/download) and pull and serve llama3 model (https://ollama.com/library/llama3.1:8b):
 `ollama run llama3.1:8b`
